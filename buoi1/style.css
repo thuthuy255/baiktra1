@@ -1,0 +1,23 @@
+.container{
+    box-sizing: border-box;
+    padding-left: 30px;
+}
+.item{
+
+   display: flex;
+   gap:10px;
+}
+.item1{
+    flex-direction: column;
+    display: flex;
+    border-radius: 3px;
+    
+    background-color:#01BACF ;
+    color: white;
+    text-align: center;
+    padding: 8px 10px;
+    margin-top: 30px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}

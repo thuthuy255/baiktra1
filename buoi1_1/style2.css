@@ -1,0 +1,20 @@
+.container{
+    box-sizing: border-box;
+    width: 750px;
+    height: 700px;
+    margin-left: 20px;
+}
+.item{
+    display: flex;
+    gap:70px;
+}
+.item1{
+
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #838181;
+}
+.tick{
+    padding: 5px;
+    color:rgba(0, 243, 162, 0.847);
+}
